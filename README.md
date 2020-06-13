@@ -1,1 +1,1 @@
-# create-neural-network-using-tensorflow
+# TensorFlow for building NN
